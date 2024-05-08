@@ -1,0 +1,103 @@
+/* Definições gerais */
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+}
+
+header {
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+.series-timeline {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+}
+
+/* Estilos gerais */
+.series-box {
+    display: flex;
+    flex-direction: column; /* Manter a organização em coluna */
+    flex-grow: 1; /* Permitir que as caixas cresçam */
+    flex-basis: auto; /* Permitir que as caixas se ajustem ao conteúdo */
+    align-items: center;
+    width: 250px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    font-family: sans-serif;
+}
+
+/* Cores de fundo por série */
+.series-box.TOS {
+    background-color: #007bff; /* Azul Escuro - TOS */
+}
+
+.series-box.TAS {
+    background-color: #28a745; /* Verde Escuro - TAS */
+}
+
+.series-box.TNG {
+    background-color: #ffc107; /* Amarelo Dourado - TNG */
+}
+
+.series-box.DS9 {
+    background-color: #6c757d; /* Cinza Escuro - DS9 */
+}
+
+.series-box.VOY {
+    background-color: #007bff; /* Azul Escuro - VOY */
+}
+
+.series-box.ENT {
+    background-color: #28a745; /* Verde Escuro - ENT */
+}
+
+.series-box.DIS {
+    background-color: #ffc107; /* Amarelo Dourado - DIS */
+}
+
+.series-box.STST {
+    background-color: #6c757d; /* Cinza Escuro - ST:ST */
+}
+
+.series-box.PIC {
+    background-color: #007bff; /* Azul Escuro - PIC */
+}
+
+.series-box.LD {
+    background-color: #28a745; /* Verde Escuro - LD */
+}
+
+.series-box.PRO {
+    background-color: #ffc107; /* Amarelo Dourado - PRO */
+}
+
+.series-box.SNW {
+    background-color: #6c757d; /* Cinza Escuro - SNW */
+}
+
+/* Estilos para o nome da série */
+.series-name {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+/* Estilos para outras informações */
+.series-info {
+    margin-top: 10px;
+}
+
