@@ -5,3 +5,5 @@ Em seguida, pedi para acrescentar uma coluna "nota dos fãs", com valor de 1 a 1
 Por fim, solicitei que criasse um site de uma única página com um box informativo sobre cada série, em ordem cronológica, contendo o nome da série, uma breve descrição e as informações dessa tabela, gerando os arquivos HTML, CSS e Javascript.
 
 Com mais um pouco de refinamento no prompt (pedindo por exemplo para usar cores de fundo nos boxes que tivessem  relação com cada série), cheguei neste resultado.
+
+O site final pode ser visto <a href="https://codepen.io/wcruz/full/ZENEzNv" target="_blank">aqui</a>.
