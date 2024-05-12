@@ -2,7 +2,7 @@
 
 **Descrição:**
 
-Este projeto implementa um chatbot em Python que interage com o usuário sobre atividade física, utilizando documentos informativos e um modelo generativo de linguagem. O chatbot busca informações relevantes nos documentos e as reescreve de forma personalizada e motivadora, adaptando-se ao perfil do usuário.
+Este projeto implementa um chatbot em Python que interage com o usuário sobre atividade física, utilizando documentos informativos e um modelo generativo de linguagem. As informações são baseadas no [Guia de Atividade Física para a População Brasileira](https://bvsms.saude.gov.br/bvs/publicacoes/guia_atividade_fisica_populacao_brasileira.pdf), do Ministério da Saúde (2021). O chatbot busca informações relevantes e as reescreve de forma personalizada e motivadora.
 
 **Funcionalidades:**
 
@@ -27,18 +27,6 @@ Este projeto implementa um chatbot em Python que interage com o usuário sobre a
 3. Execute o script `main.py`.
 4. Interaja com o chatbot digitando suas perguntas e respostas.
 
-**Exemplos de interação:**
-
-* **Usuário:** Olá!
-* **Chatbot:** Olá! Você costuma fazer atividade física?
-* **Usuário:** Não muito, confesso.
-* **Chatbot:** Que tal começar com caminhadas leves? Elas são ótimas para a saúde do coração e podem ser feitas em qualquer lugar. Além disso, você pode se juntar a um grupo de caminhada para se divertir mais e fazer novos amigos.
-* **Usuário:** Gostei da ideia! Vou tentar começar a caminhar essa semana.
-* **Chatbot:** Ótimo! E se você quiser se exercitar mais, pode tentar outros tipos de atividades, como natação, ciclismo ou dança. No nosso site, você encontra informações sobre diversos tipos de exercícios e dicas para começar.
-* **Usuário:** Vou dar uma olhada no site, obrigado!
-* **Chatbot:** De nada! Fico feliz em poder ajudar. Se tiver mais dúvidas, pode me perguntar.
-* **Usuário:** Fim.
-
 **Contribuições:**
 
 Sinta-se à vontade para contribuir com este projeto! Você pode sugerir melhorias, adicionar novas funcionalidades ou traduzir o código para outros idiomas.
@@ -50,4 +38,4 @@ Sinta-se à vontade para contribuir com este projeto! Você pode sugerir melhori
 
 **Agradecimentos:**
 
-Ao Google AI por disponibilizar a biblioteca GenAI.
+Ao Google AI por disponibilizar a biblioteca GenAI e à Alura pela imersão!
