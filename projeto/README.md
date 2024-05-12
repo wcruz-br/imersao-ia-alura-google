@@ -19,14 +19,6 @@ Este projeto implementa um chatbot em Python que interage com o usuário sobre a
 * Pandas (biblioteca para análise de dados)
 * NumPy (biblioteca para computação científica)
 
-**Como executar:**
-
-1. Clone o repositório para o seu computador.
-2. Instale as bibliotecas necessárias:
-    - `pip install genai pandas numpy`
-3. Execute o script `main.py`.
-4. Interaja com o chatbot digitando suas perguntas e respostas.
-
 **Contribuições:**
 
 Sinta-se à vontade para contribuir com este projeto! Você pode sugerir melhorias, adicionar novas funcionalidades ou traduzir o código para outros idiomas.
